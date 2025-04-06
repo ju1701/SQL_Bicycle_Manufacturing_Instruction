@@ -431,7 +431,7 @@ FROM `adventureworks2019.Purchasing.PurchaseOrderHeader` poh
 WHERE status=1;
 ```
 ***Query result (few rows)***
-![Screenshot 2025-04-04 at 09 49 40](https://github.com/user-attachments/assets/b622fff8-99a4-4e01-a0cf-b26493ee6a6b)
+![Screenshot 2025-04-06 at 09 24 39](https://github.com/user-attachments/assets/959bc160-de8d-4ec3-82bd-cac2f9c105c6)
 
 ***Example of Possible insight after visualizing***
 
